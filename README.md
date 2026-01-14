@@ -11,7 +11,8 @@ The goal of this dashboard is to provide stakeholders with actionable insights i
 * What are the top-performing regions (States/Cities)?
 
 **Model View**
-<img width="1105" height="735" alt="image" src="https://github.com/user-attachments/assets/5ba1ebfc-5f45-4c86-bea9-4e11cf8b1cc2" />
+<img width="1137" height="739" alt="image" src="https://github.com/user-attachments/assets/6b53a48f-5131-456a-b329-910c9c0aac48" />
+
 
 ## 🔄 How to Use
 1.  Download the `.pbix` file from this repository.
